@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zaneriate.github.io/sitemap.html.gz
+Sitemap: https://zaneriate.github.io/app/sitemap.html.gz
+Sitemap: https://zaneriate.github.io/assets/sitemap.html.gz
+Sitemap: https://zaneriate.github.io/css/sitemap.html.gz
+Sitemap: https://zaneriate.github.io/includes/sitemap.html.gz
+Sitemap: https://zaneriate.github.io/item/sitemap.html.gz
+Sitemap: https://zaneriate.github.io/src/sitemap.html.gz
